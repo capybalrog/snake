@@ -12,7 +12,7 @@ git clone https://github.com/capybalrog/snake.git
 
 - Перейти в папку проекта
 ```
-cd the
+cd the_snake
 ```
 
 - Создать и активировать виртуальное окружение
